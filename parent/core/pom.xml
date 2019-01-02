@@ -26,11 +26,11 @@
             <version>4.0</version>
         </dependency>
         <!--oracle-->
-        <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc6</artifactId>
-            <version>12</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.oracle</groupId>-->
+            <!--<artifactId>ojdbc6</artifactId>-->
+            <!--<version>12</version>-->
+        <!--</dependency>-->
 
         <!--jpa-->
         <dependency>
